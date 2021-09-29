@@ -2,7 +2,7 @@
 permalink: /
 classes: wide
 header:
-  teaser: "/images/teaser.png"
+  teaser: teaser.png
 title: "Welcome !"
 excerpt: "About me"
 author_profile: true
