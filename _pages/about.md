@@ -7,6 +7,7 @@ header:
   overlay_filter: "0.5"
   overlay_image: "http://hanzhou925.github.io/images/teaser.png"
 title: "Welcome !"
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
