@@ -1,6 +1,6 @@
 ---
 permalink: /
-layout: home
+layout: single
 classes: wide
 teaser: /images/teaser.png
 title: "Welcome !"
