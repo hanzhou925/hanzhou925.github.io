@@ -11,6 +11,7 @@ title: "Welcome !"
 excerpt: "This is the Hompage of Han Zhou, 
 who is in her senior year at SJTU, 
 and currently applying for Master/PhD in Linguistics:)"
+excerpt: "[Learn More about me](https://hanzhou925.github.io/aboutme/)"
 
 author_profile: false
 actions:
