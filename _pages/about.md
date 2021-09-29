@@ -9,9 +9,9 @@ header:
 
 title: "Welcome !"
 excerpt: >
-  This is the Hompage of Han Zhou,  
-  who is in her senior year at SJTU,  
-  and currently applying for Master/PhD in Linguistics:)  
+  This is the Hompage of Han Zhou,<br />  
+  who is in her senior year at SJTU,<br />  
+  and currently applying for Master/PhD in Linguistics:)<br />  
   [Learn More about me](https://hanzhou925.github.io/aboutme/)<br />
 
 author_profile: false
