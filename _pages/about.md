@@ -15,9 +15,7 @@ excerpt: >
   [Learn More about me](https://hanzhou925.github.io/aboutme/)<br />
 
 author_profile: false
-actions:
-    - label: "<i class='fas fa-download'></i> Learn More"
-      url: "/aboutme/"
+
 redirect_from: 
   - /about/
   - /about.html
