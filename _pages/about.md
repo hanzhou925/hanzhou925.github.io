@@ -14,5 +14,5 @@ redirect_from:
 
 ---
 
-This is the Homepage of Han Zhou!
+Welcome to the Homepage of Han Zhou!
 ======
