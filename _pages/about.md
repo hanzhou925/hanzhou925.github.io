@@ -9,11 +9,8 @@ header:
 
 title: "Welcome !"
 excerpt: >
-  This is the Hompage of Han Zhou.<br />
-excerpt: >
-  who is in her senior year at SJTU.<br />
-excerpt: >
-  and currently applying for Master/PhD in Linguistics:)<br />
+  This is the Hompage of Han Zhou, who is in her senior year at SJTU, and currently applying for Master/PhD in Linguistics:).<br />
+
 author_profile: false
 actions:
     - label: "<i class='fas fa-download'></i> Learn More"
