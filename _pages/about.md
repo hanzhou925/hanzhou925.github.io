@@ -10,8 +10,9 @@ title: "Welcome !"
 redirect_from: 
   - /about/
   - /about.html
+  -
 
 ---
 
-Welcome to my Homepage !
+This is the Homepage of Han Zhou!
 ======
