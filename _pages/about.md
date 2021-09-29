@@ -10,9 +10,9 @@ header:
 title: "Welcome !"
 excerpt: >
   This is the homepage of Han Zhou.<br />
-excerpt: >
+#excerpt: >
   I am a senior student at SJTU,<br />
-excerpt: >
+#excerpt: >
   Currently applying for Master/PhD in Linguistics:)<br />
 author_profile: true
 toc: true
