@@ -37,7 +37,7 @@ The Regulation of Relative Clause Types on Causality Expectation in Real-time Di
 
 
 
-Other Writing Work
+Writing Sample
 ------
   [Similarities and Differences between First and Second Language Acquisition](http://hanzhou925.github.io/files/Review on Second Language Acquisition.pdf)
 
