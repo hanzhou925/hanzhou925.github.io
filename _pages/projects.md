@@ -1,10 +1,10 @@
 ---
-layout: collection
+layout: archive
 title: "AI Projects"
 permalink: /projects/
 author_profile: true
 collection: projects
-entries_layout: grid
+
 
 ---
 
