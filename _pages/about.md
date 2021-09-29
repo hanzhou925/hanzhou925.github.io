@@ -15,5 +15,3 @@ redirect_from:
 
 ---
 
-Welcome to the Homepage of Han Zhou!
-======
