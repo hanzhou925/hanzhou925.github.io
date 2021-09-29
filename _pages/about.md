@@ -13,7 +13,7 @@ excerpt: >
   A senior student at SJTU,<br />
 excerpt: >
   Currently applying for Master in Linguistics.<br />
-author_profile: false
+author_profile: true
 toc: true
 actions:
     - label: "<i class='fas fa-download'></i> Learn More"
