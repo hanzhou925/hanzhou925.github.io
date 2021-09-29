@@ -15,7 +15,6 @@ excerpt: >
 excerpt: >
   and currently applying for Master/PhD in Linguistics:)<br />
 author_profile: false
-toc: true
 actions:
     - label: "<i class='fas fa-download'></i> Learn More"
       url: "/aboutme/"
