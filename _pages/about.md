@@ -2,7 +2,7 @@
 permalink: /
 layout: splash
 classes: wide
-teaser: "teaser.png"
+teaser: /images/teaser.png
 title: "Welcome !"
 excerpt: "About me"
 author_profile: true
