@@ -11,9 +11,9 @@ title: "Welcome !"
 excerpt: >
   This is the homepage of Han Zhou.<br />
 #excerpt: >
-  I am a senior student at SJTU,<br />
+  #I am a senior student at SJTU,<br />
 #excerpt: >
-  Currently applying for Master/PhD in Linguistics:)<br />
+  #Currently applying for Master/PhD in Linguistics:)<br />
 author_profile: true
 toc: true
 actions:
