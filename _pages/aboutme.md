@@ -46,7 +46,7 @@ Writing Sample
 
 Skills
 ------
-Programming: Python / R / MATLAB / SPSS 
-Experimental: Experiment Builder / Data Viewer / E-Prime
+Programming: Python / R / MATLAB / SPSS <br />
+Experimental: Experiment Builder / Data Viewer / E-Prime <br />
 Language: Chinese / English / German
 
