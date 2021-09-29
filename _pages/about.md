@@ -9,7 +9,9 @@ header:
 title: "Welcome !"
 excerpt: >
   This is the homepage of Han Zhou.<br />
-author_profile: true
+  A senior student at SJTU,<br />
+  Currently applying for Master in Linguistics.<br />
+author_profile: false
 toc: true
 actions:
     - label: "<i class='fas fa-download'></i> Learn More"
