@@ -6,6 +6,7 @@ author_profile: true
 
 ---
 
+
 I am Han Zhou at Shanghai Jiao Tong University. Despite my major in German Languages and Literatures, I have developed strong theoretical and experimental skills in linguistics, especially in psycholinguistics. Out of strong interest and curiosity in linguistics, I plan to pursue the postgraduate study and work as a researcher/linguist in the future.
 
 My interest in linguistics derived from my fascination for foreign languages. At an early age, I had a determination to further pursue linguistics after learning about the historical development of languages through a course on world languages. This sparked my curiosity for cross-linguistic similarities and differences and the processes involved in human language acquisition. 
@@ -23,6 +24,7 @@ Research Interest
 
 
 
+
 Research Projects
 ------
 
@@ -33,8 +35,18 @@ The Regulation of Relative Clause Types on Causality Expectation in Real-time Di
 [The Impact of Quantificational Cues on L2 Subject-verb Agreement Processing: Evidence from P600](http://hanzhou925.github.io/files/项目研究论文.pdf)
 
 
+
+
 Other Writing Work
 ------
- [Similarities and Differences between First and Second Language Acquisition](http://hanzhou925.github.io/files/Review on Second Language Acquisition.pdf)
+  [Similarities and Differences between First and Second Language Acquisition](http://hanzhou925.github.io/files/Review on Second Language Acquisition.pdf)
 
+
+
+
+Skills
+------
+Programming: Python / R / MATLAB / SPSS 
+Experimental: Experiment Builder / Data Viewer / E-Prime
+Language: Chinese / English / German
 
