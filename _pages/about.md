@@ -8,6 +8,7 @@ header:
   overlay_image: "http://hanzhou925.github.io/images/header.png"
 title: "Welcome !"
 author_profile: true
+toc: true
 redirect_from: 
   - /about/
   - /about.html
