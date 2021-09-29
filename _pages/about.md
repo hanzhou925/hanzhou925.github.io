@@ -1,6 +1,6 @@
 ---
 permalink: /
-layout: splash
+layout: single
 classes: wide
 header:
   overlay_color: "#000"
