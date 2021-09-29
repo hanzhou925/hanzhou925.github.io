@@ -11,6 +11,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+![Example](images/header.png)
 
 Welcome to my Homepage !
