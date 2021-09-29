@@ -1,11 +1,11 @@
 ---
 permalink: /
-layout: single
+layout: splash
 classes: wide
+hidden: true
 header:
-  #overlay_color: "#000"
-  #overlay_filter: "0.5"
-  teaser: "http://hanzhou925.github.io/images/teaser.png"
+  overlay_color: "#5e616c"
+  overlay_image: "http://hanzhou925.github.io/images/teaser.png"
 title: "Welcome !"
 author_profile: true
 toc: true
