@@ -8,7 +8,8 @@ header:
   overlay_image: "http://hanzhou925.github.io/images/teaser.png"
 
 title: "Welcome !"
-excerpt: >
+excerpt: >  
+                                  <br />
   This is the Hompage of Han Zhou,<br />  
   who is in her senior year at SJTU,<br />  
   and currently applying for Master/PhD in Linguistics:)<br />  
