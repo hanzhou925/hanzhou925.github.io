@@ -11,7 +11,7 @@ title: "Welcome !"
 excerpt: > 
   This is the Homepage of Han Zhou,<br />  
   who is in her senior year at SJTU,<br />  
-  and currently applying for Master/PhD in Linguistics:)<br />  
+  and currently applying for Master/PhD in Linguistics :)<br />  
                                                         <br /> 
   [Learn More about me](https://hanzhou925.github.io/aboutme/)<br />
 
