@@ -6,9 +6,7 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: "http://hanzhou925.github.io/images/teaser.png"
-  actions:
-    - label: "<i class='fas fa-download'></i> learn more"
-      url: "/pages/aboutme/"
+
 title: "Welcome !"
 excerpt: >
   This is the homepage of Han Zhou.<br />
