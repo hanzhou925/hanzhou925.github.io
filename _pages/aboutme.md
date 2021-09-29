@@ -18,7 +18,7 @@ During my undergraduate study, I have conducted two research projects in psychol
 Research Interest
 ------
 
- Psycholinguistics, Neurolinguistics;
+ Psycholinguistics, Neurolinguistics;<br />
  Interface between Syntax and Semantics, Coherence, Coreference, Second Language Acquisition.
 
 
@@ -26,10 +26,10 @@ Research Interest
 Research Projects
 ------
 
- 1. **Independent Research**: (on-going) 
+ 1. **Independent Research**: (on-going) <br />
 The Regulation of Relative Clause Types on Causality Expectation in Real-time Discourse Processing
     
- 2. **National-level Undergraduate Innovation Program**: 
+ 2. **National-level Undergraduate Innovation Program**: <br />
 [The Impact of Quantificational Cues on L2 Subject-verb Agreement Processing: Evidence from P600](http://hanzhou925.github.io/files/项目研究论文.pdf)
 
 
