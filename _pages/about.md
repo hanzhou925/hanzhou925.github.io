@@ -11,6 +11,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-![Example](images/header.png)
+![Example](http://hanzhou925.github.io/images/header.png)
 
 Welcome to my Homepage !
