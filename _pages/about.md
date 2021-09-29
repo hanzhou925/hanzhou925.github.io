@@ -9,6 +9,9 @@ header:
 title: "Welcome !"
 author_profile: true
 toc: true
+actions:
+    - label: "<i class='fas fa-download'></i> Learn More"
+      url: "/aboutme/"
 redirect_from: 
   - /about/
   - /about.html
