@@ -1,6 +1,6 @@
 ---
 permalink: /
-layout: single
+layout: splash
 classes: wide
 hidden: true
 header:
