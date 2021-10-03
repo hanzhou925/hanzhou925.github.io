@@ -9,8 +9,6 @@ author_profile: true
 
 I am Han Zhou at Shanghai Jiao Tong University. Despite my major in German Languages and Literatures, I have developed strong theoretical and experimental skills in linguistics, especially in psycholinguistics. Out of strong interest and curiosity in linguistics, I plan to pursue the postgraduate study and work as a researcher/linguist in the future.
 
-My interest in linguistics derived from my fascination for foreign languages. At an early age, I had a determination to further pursue linguistics after learning about the historical development of languages through a course on world languages. This sparked my curiosity for cross-linguistic similarities and differences and the processes involved in human language acquisition. 
-
 During my undergraduate study, I have conducted two research projects in psycholinguistics. The first investigates the processing of subject-verb agreement among Chinese-English L2 speakers with evidence from P600, which was nominated as a national-level Undergraduate Innovation Program. I came up with my sencond research idea regarding real-time discourse processing and inference through questioning the journals of Hoek (2020 & 2021), and designed further eye-tracking experiments in Chinese, hoping to investigate the regulation of relative clauses on causality expectation. 
 
 Through attending group meetings on neurolinguistics for a select few graduate students, I am familiar with using ERP studies and brain stimulations to investigate preditive mechanisms in language processing, such as the function of P3a and P3b. I am also interested in oddball effects.
