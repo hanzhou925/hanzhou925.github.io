@@ -22,7 +22,7 @@ author_profile: true
    ![Example](http://hanzhou925.github.io/images/eigenface.png)
  
  
-4. [Image Resoration based on Regression Analysis](https://github.com/hanzhou925/Image-Restoration)
+4. [Image Resoration based on Linear-regression Analysis](https://github.com/hanzhou925/Image-Restoration)
 ------
    ![Example](http://hanzhou925.github.io/images/image restoration2.png)
 
