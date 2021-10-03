@@ -24,7 +24,7 @@ Research Interest
 ------
 
  Psycholinguistics, Neurolinguistics;<br />
- Interface between Syntax and Semantics, Coherence, Coreference, Prediction in sentence processing, Second language acquisition.
+ Interface between Syntax and Semantics, Coherence, Coreference, Prediction in Sentence Processing, Second Language Acquisition.
 
 
 
