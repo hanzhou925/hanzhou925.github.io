@@ -13,7 +13,7 @@ My interest in linguistics derived from my fascination for foreign languages. At
 
 During my undergraduate study, I have conducted two research projects in psycholinguistics. The first investigates the processing of subject-verb agreement among Chinese-English L2 speakers with evidence from P600, which was nominated as a national-level Undergraduate Innovation Program. I came up with my sencond research idea regarding real-time discourse processing and inference through questioning the journals of Hoek (2020 & 2021), and designed further eye-tracking experiments in Chinese, hoping to investigate the regulation of relative clauses on causality expectation. 
 
-Through attending group meetings on neurolinguistics designed for a select few graduate students, which profoundly enhanced my insights and knowledge in these areas. I am familiar with using ERP studies and brain stimulations to investigate preditive mechanisms in language processing, such as the function of P3a and P3b. I am also interested in oddball effects.
+Through attending group meetings on neurolinguistics for a select few graduate students, I am familiar with using ERP studies and brain stimulations to investigate preditive mechanisms in language processing, such as the function of P3a and P3b. I am also interested in oddball effects.
 
 I plan to further explore the relationship between language, the brain and language processing mechanisms by combining behavioural experiments with eye-tracking or ERP experiments. I would also take advantage of my knowledge of German and Chinese to investigate second/third language acquisition and explore which aspects of syntax are universal and which areas show cross-linguistic variation. 
 
