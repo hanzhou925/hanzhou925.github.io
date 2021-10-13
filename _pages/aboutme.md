@@ -30,10 +30,10 @@ Research Interest
 Research Projects
 ------
 
-1. **Independent Research**: (on-going) <br />
+1.**Independent Research**: (on-going) <br />
 The Regulation of Relative Clause Types on Causality Expectation in Real-time Discourse Processing
     
-2. **National-level Undergraduate Innovation Program**: <br />
+2.**National-level Undergraduate Innovation Program**: <br />
 [The Impact of Quantificational Cues on L2 Subject-verb Agreement Processing: Evidence from P600](http://hanzhou925.github.io/files/项目研究论文.pdf)
 
 
@@ -41,13 +41,15 @@ The Regulation of Relative Clause Types on Causality Expectation in Real-time Di
 
 Writing Sample
 ------
-  [Similarities and Differences between First and Second Language Acquisition](http://hanzhou925.github.io/files/Review on Second Language Acquisition.pdf)
+
+[Similarities and Differences between First and Second Language Acquisition](http://hanzhou925.github.io/files/Review on Second Language Acquisition.pdf)
 
 
 
 
 Courses and Workshops:
 ------
+
 Syntax; Language Acquisition; German Linguistics; German Lexicology; Frontiers in Linguistics; Morphology; (audit)<br />
 Edinburgh Virtual Workshop on Artificial Language Learning;<br />
 Leipzig Lectures on Language – Combinatorics;<br />
