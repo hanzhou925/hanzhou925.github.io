@@ -22,7 +22,7 @@ Research Interest
 ------
 
  Psycholinguistics, Neurolinguistics;<br />
- Interface between Syntax and Semantics, Coherence, Coreference, Prediction in Sentence Processing, Second Language Acquisition.
+ Interface between Syntax and Semantics, Pragmatics, Coherence, Coreference, Prediction in Sentence Processing.
 
 
 
@@ -43,6 +43,17 @@ Writing Sample
 ------
   [Similarities and Differences between First and Second Language Acquisition](http://hanzhou925.github.io/files/Review on Second Language Acquisition.pdf)
 
+
+
+
+Courses and Workshops:
+------
+Syntax; Language Acquisition; German Linguistics; German Lexicology; Frontiers in Linguistics; Morphology; (audit)<br />
+Edinburgh Virtual Workshop on Artificial Language Learning;<br />
+Leipzig Lectures on Language – Combinatorics;<br />
+An introduction to vector space morphology and morphological processing using linear discriminative learning (LDL);<br />
+Applying R in Linguistics;<br />
+Advanced Seminar on Phonetics and Neural Mechanisms of the Brain, etc.
 
 
 
