@@ -47,10 +47,9 @@ Writing Sample
 
 
 
-Courses and Workshops:
+Attended Workshops:
 ------
 
-Syntax; Language Acquisition; German Linguistics; German Lexicology; Frontiers in Linguistics; Morphology; (audit)<br />
 Edinburgh Virtual Workshop on Artificial Language Learning;<br />
 Leipzig Lectures on Language – Combinatorics;<br />
 An introduction to vector space morphology and morphological processing using linear discriminative learning (LDL);<br />
