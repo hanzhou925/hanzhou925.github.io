@@ -22,3 +22,5 @@ author_profile: true
 ---
 
 <a href="https://clustrmaps.com/site/1bm1j"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=2Qy-pBpg3lI6X-gBmRezJGseYiXu_zQU_r1P3SwrVRw&cl=ffffff" /></a>
+<a href="https://clustrmaps.com/site/1bm1j"  title="Visit tracker"><img src="//www.clustrmaps.com/globe.js?d=2Qy-pBpg3lI6X-gBmRezJGseYiXu_zQU_r1P3SwrVRw/></a>
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=2Qy-pBpg3lI6X-gBmRezJGseYiXu_zQU_r1P3SwrVRw"></script>
