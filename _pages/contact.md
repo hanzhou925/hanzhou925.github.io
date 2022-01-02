@@ -18,6 +18,5 @@ author_profile: true
 |  Address                  | 800 Dongchuan Road, Minhang District, Shanghai, China, 200240     <br />
 
 
----
 
 <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=2Qy-pBpg3lI6X-gBmRezJGseYiXu_zQU_r1P3SwrVRw"></script>
