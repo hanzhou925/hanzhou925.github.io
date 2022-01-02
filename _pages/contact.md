@@ -20,3 +20,4 @@ author_profile: true
 
 ---
 
+<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=2Qy-pBpg3lI6X-gBmRezJGseYiXu_zQU_r1P3SwrVRw"></script>
