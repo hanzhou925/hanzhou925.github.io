@@ -64,7 +64,7 @@ Advanced Seminar on Phonetics and Neural Mechanisms of the Brain, etc.
 
 Skills
 ------
-  **Programming** :   Python / R / MATLAB / SPSS <br />
-  **Experimental** :  Experiment Builder / Data Viewer / E-Prime <br />
+  **Programming** :   Python / R / MATLAB <br />
+  **Experimental** :  Experiment Builder / Data Viewer / Gorilla / E-Prime <br />
   **Language** :      Chinese / English / German
 
