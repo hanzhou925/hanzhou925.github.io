@@ -85,7 +85,7 @@ author:
   avatar           : "flower3.png"
   bio              : "Student at Shanghai Jiao Tong University"
   location         : "Shanghai, China"
-  employer         :
+  employer         : <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=2Qy-pBpg3lI6X-gBmRezJGseYiXu_zQU_r1P3SwrVRw"></script>
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "kerry001.hi@gmail.com"
