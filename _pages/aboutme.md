@@ -42,7 +42,6 @@ The Regulation of Relative Clause Types on Causality Expectation in Real-time Di
 
 
 
-
 Writing Sample
 ------
 
