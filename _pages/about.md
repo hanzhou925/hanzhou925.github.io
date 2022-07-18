@@ -12,7 +12,7 @@ excerpt: >
   This is the Homepage of Han Zhou,<br />  
   Bachelor at SJTU,<br />  
   and  a postgraduate student at UCL majoring in Language Science (Neuroscience & Communication( :)<br /> 
-  Currently searching for intern :)
+  Currently searching for internship :)
                                                         <br /> 
   [Learn More about me](https://hanzhou925.github.io/aboutme/)<br />
 
