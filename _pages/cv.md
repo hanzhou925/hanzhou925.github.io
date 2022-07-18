@@ -12,4 +12,4 @@ redirect_from:
 {% include base_path %}
 You can download the document by [Clicking Here](https://hanzhou925.github.io/files/cv_zhouhan_career.pdf)
 
-![Example](http://hanzhou925.github.io/images/cv_zhouhan.png)
+![Example](http://hanzhou925.github.io/images/cv_zhouhan_career.png)
