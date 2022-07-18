@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 
-I am Han Zhou who has recently graduated from Shanghai Jiao Tong University with Bachelor of Arts. Despite my major in German Languages and Literatures, I have developed strong theoretical and experimental skills through several research projects in psycholinguistics. 
+I am Han Zhou who has recently graduated from Shanghai Jiao Tong University with BA in German, and now a prospective MSc student at UCL, majoring in Language Science in Neuroscience, Language & Communication.
 
 During my undergraduate study, I have conducted two research projects in psycholinguistics. The first investigates the processing of subject-verb agreement among Chinese-English L2 speakers with evidence from P600, which was nominated as a national-level Undergraduate Innovation Program. I came up with my sencond research idea regarding real-time discourse processing and inference through questioning the journals of Hoek (2020 & 2021), and designed further eye-tracking experiments in Chinese, hoping to investigate the regulation of relative clauses on causality expectation. 
 
