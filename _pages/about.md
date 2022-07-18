@@ -9,11 +9,11 @@ header:
 
 title: "Welcome !"
 excerpt: > 
-  This is the Homepage of Han Zhou,<br />  
-  Bachelor at SJTU,<br />  
-  and  a postgraduate student at UCL majoring in Language Science:)<br /> 
+  This is the Homepage of Han Zhou, Bachelor at SJTU,<br />  
+  and a postgraduate student at UCL majoring in Language Science:)<br /> 
   Currently searching for internship :)
-                                                        <br /> 
+                 
+                 <br /> 
   [Learn More about me](https://hanzhou925.github.io/aboutme/)<br />
 
 author_profile: false
