@@ -28,12 +28,6 @@ Product Manager; Data Aanalyst; Business Analyst
 
 
 
-Research Interest
-------
-
- Psycholinguistics; Computer-linguistics<br />
- 
-
 
 
 Research Projects
