@@ -7,13 +7,23 @@ author_profile: true
 ---
 
 
-I am Han Zhou at Shanghai Jiao Tong University. Despite my major in German Languages and Literatures, I have developed strong theoretical and experimental skills in linguistics, especially in psycholinguistics. Out of strong interest and curiosity in linguistics, I plan to pursue the postgraduate study and work as a researcher/linguist in the future.
+I am Han Zhou who has recently graduated from Shanghai Jiao Tong University with Bachelor of Arts. Despite my major in German Languages and Literatures, I have developed strong theoretical and experimental skills through several research projects in psycholinguistics. 
 
 During my undergraduate study, I have conducted two research projects in psycholinguistics. The first investigates the processing of subject-verb agreement among Chinese-English L2 speakers with evidence from P600, which was nominated as a national-level Undergraduate Innovation Program. I came up with my sencond research idea regarding real-time discourse processing and inference through questioning the journals of Hoek (2020 & 2021), and designed further eye-tracking experiments in Chinese, hoping to investigate the regulation of relative clauses on causality expectation. 
 
-Through attending group meetings on neurolinguistics for a select few graduate students, I am familiar with using ERP studies and brain stimulations to investigate preditive mechanisms in language processing, such as the function of P3a and P3b. I am also interested in oddball effects.
+From my research experience, I have also gained insights in discovering existing problems, strong abilities in data analysis, and finding out new discoveries with the data gathered. I am passionate about integrating my research ability and skills into job positions to address actual needs in real world. I have also applied these skills into my previous internships at several leading Internet companies. I worked as NLP PO at AI-LAB at ByteDance for over 4 months and Text-To-Speech (TTS) Linguistic Tech Intern at AI Center at Ximalaya, also a bigname Internet company in China. During these internships, I have successfully combined my expertise in linguistic theoretical knowledge as well as my edge in language with business and technical projects of the companies, assisting the upgrade and improvement of some hit products, such as live captioning function of TikTok.
 
-I plan to further explore the relationship between language, the brain and language processing mechanisms by combining behavioural experiments with eye-tracking or ERP experiments. I would also take advantage of my knowledge of German and Chinese to investigate second/third language acquisition and explore which aspects of syntax are universal and which areas show cross-linguistic variation. 
+I have also attended several workshops to improve my data analytic skills. During undergraduate study, I have also selected courses such as Probability and Statistics, Calculus, as well as some programming courses like AI Programming Framework, Introduction to AI, and Natural Language Processing. In this way, I have enhanced my mathematical and computational abilities. Recently, I have been working on the IBM Certificate of Data Science.
+
+Hence, I hope to further pursue a career path relating to technical product mangager, business analyst or data analyst:).
+
+
+
+
+Job Interest:
+------
+
+Product Manager; Data Aanalyst; Business Analyst 
 
 
 
@@ -21,9 +31,8 @@ I plan to further explore the relationship between language, the brain and langu
 Research Interest
 ------
 
- Psycholinguistics, Neurolinguistics;<br />
- Interface between Syntax and Semantics, Pragmatics, Coherence, Coreference, Prediction in Sentence Processing.
-
+ Psycholinguistics; Computer-linguistics<br />
+ 
 
 
 
@@ -40,12 +49,6 @@ The Regulation of Relative Clause Types on Causality Expectation in Real-time Di
 [An Empirical Study on the Acquisition of German Relative Clause Attachment among Late Chinese-German L2 Speakers](http://hanzhou925.github.io/files/本科毕业论文_周涵.pdf)
 
 
-
-
-Writing Sample
-------
-
-[Similarities and Differences between First and Second Language Acquisition](http://hanzhou925.github.io/files/Review on Second Language Acquisition.pdf)
 
 
 
@@ -65,5 +68,5 @@ Skills
 ------
   **Programming** :   Python / R / MATLAB <br />
   **Experimental** :  Experiment Builder / Data Viewer / Gorilla / E-Prime <br />
-  **Language** :      Chinese / English / German
+  **Language** :      Chinese / English / German / Sanskrit
 
