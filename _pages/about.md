@@ -11,7 +11,8 @@ title: "Welcome !"
 excerpt: > 
   This is the Homepage of Han Zhou,<br />  
   Bachelor at SJTU,<br />  
-  and currently a postgraduate student at UCL majoring in Language Science (Neuroscience & Communication( :)<br />  
+  and  a postgraduate student at UCL majoring in Language Science (Neuroscience & Communication( :)<br /> 
+  Currently searching for intern :)
                                                         <br /> 
   [Learn More about me](https://hanzhou925.github.io/aboutme/)<br />
 
