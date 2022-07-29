@@ -7,23 +7,23 @@ author_profile: true
 ---
 
 
-I am Han Zhou who has recently graduated from Shanghai Jiao Tong University with BA in German, and now a prospective MSc student at UCL, majoring in Language Science in Neuroscience, Language & Communication.
+I am Han Zhou who has recently graduated from Shanghai Jiao Tong University with BA in German, and now a prospective MSc student at UCL, majoring in Language Science in Neuroscience, Language & Communication. I am interested in applying technical skills like data analysis into business world to solve realistic problems and gain both business and social value.
 
-During my undergraduate study, I have conducted two research projects in psycholinguistics. The first investigates the processing of subject-verb agreement among Chinese-English L2 speakers with evidence from P600, which was nominated as a national-level Undergraduate Innovation Program. I came up with my sencond research idea regarding real-time discourse processing and inference through questioning the journals of Hoek (2020 & 2021), and designed further eye-tracking experiments in Chinese, hoping to investigate the regulation of relative clauses on causality expectation. 
+I have gained insights in discovering existing problems through conducting two research projects in psycholinguistics. The first investigates the processing of subject-verb agreement among Chinese-English L2 speakers with evidence from P600, which was nominated as a national-level Undergraduate Innovation Program. I came up with my sencond research idea regarding real-time discourse processing and inference through questioning the journals of Hoek (2020 & 2021) and found out the research gap in Chinese linguistics, which was a rather new area. I further designed eye-tracking experiments in Chinese based on my research questions, aiming to investigate the regulation of relative clauses on causality expectation.
 
-From my research experience, I have also gained insights in discovering existing problems, strong abilities in data analysis, and finding out new discoveries with the data gathered. I am passionate about integrating my research ability and skills into job positions to address actual needs in real world. I have also applied these skills into my previous internships at several leading Internet companies. I worked as NLP PO at AI-LAB at ByteDance for over 4 months and Text-To-Speech (TTS) Linguistic Tech Intern at AI Center at Ximalaya, also a bigname Internet company in China. During these internships, I have successfully combined my expertise in linguistic theoretical knowledge as well as my edge in language with business and technical projects of the companies, assisting the upgrade and improvement of some hit products, such as live captioning function of TikTok.
+I have also developed strong abilities in data analysis, and finding out new discoveries with the data gathered. I have applied such analystic skills in not only processing experimental data gathered from participants, but also in my internships at several leading Internet companies. I worked as NLP PO at AI-LAB at ByteDance for over 4 months and Text-To-Speech (TTS) Linguistic Tech Intern at AI Center at Ximalaya, also a bigname Internet company in China. During these internships, I have successfully combined my expertise in linguistic theoretical knowledge as well as my edge in language with business and technical projects of the companies, assisting the upgrade and improvement of some hit products, such as live captioning function of TikTok.
 
-I have also attended several workshops to improve my data analytic skills. During undergraduate study, I have also selected courses such as Probability and Statistics, Calculus, as well as some programming courses like AI Programming Framework, Introduction to AI, and Natural Language Processing. In this way, I have enhanced my mathematical and computational abilities. Recently, I have been working on the IBM Certificate of Data Science.
+I am also curious about everything new and dedicated to improving my skills. I have attended several workshops to improve my data analytic skills. During undergraduate study, I have also selected courses such as Probability and Statistics, Calculus, as well as some programming courses like AI Programming Framework, Introduction to AI, and Natural Language Processing. In this way, I have enhanced my mathematical and computational abilities. Recently, I have been working on the IBM Certificate of Data Scienctist. 
 
-Hence, I hope to further pursue a career path relating to technical product mangager, business analyst or data analyst:).
-
+Hence, I hope to further pursue a career path relating to technical consultant, business analyst or data analyst, as well as product manager:).
+Some projects related to AI and machine learning can also be viewed on the Page "AI Projects".
 
 
 
 Job Interest:
 ------
 
-Product Manager; Data Aanalyst; Business Analyst 
+Business Analyst; Technical consultant; Product Manager 
 
 
 
@@ -60,7 +60,6 @@ Advanced Seminar on Phonetics and Neural Mechanisms of the Brain, etc.
 
 Skills
 ------
-  **Programming** :   Python / R / MATLAB <br />
-  **Experimental** :  Experiment Builder / Data Viewer / Gorilla / E-Prime <br />
+  **Technical** :   Python / RStudio / MATLAB / IBM Watson Studio / Microsoft Azure<br />
   **Language** :      Chinese / English / German / Sanskrit
 
