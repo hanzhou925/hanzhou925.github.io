@@ -10,6 +10,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can download the document by [Clicking Here](https://hanzhou925.github.io/files/cv_zhouhan_career.pdf)
+You can download the document by [Clicking Here](https://hanzhou925.github.io/files/cv_zhouhan_2.pdf)
 
 ![Example](http://hanzhou925.github.io/images/cv_zhouhan_career.png)
