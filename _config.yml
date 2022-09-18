@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Han Zhou / Home"
 title_separator          : "-"
 name                     : &name "Han Zhou"
-description              : &description "Student"
+description              : &description "Postgraduate Student"
 url                      : https://hanzhou925.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hanzhou925/hanzhou925.github.io"
@@ -83,11 +83,11 @@ analytics:
 author:
   name             : "Han Zhou"
   avatar           : "flower3.png"
-  bio              : "Student at Shanghai Jiao Tong University"
-  location         : "Shanghai, China"
+  bio              : "MSc at UCL | Bachelor at SJTU"
+  location         : "London, UK"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "kerry001.hi@gmail.com"
+  email            : "hanzhou925@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
