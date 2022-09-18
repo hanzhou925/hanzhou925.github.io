@@ -13,7 +13,7 @@ author_profile: true
 ------
    ![Example](http://hanzhou925.github.io/images/image restoration2.png)
 
-2. Analysis of the Business Loyalty for DiDi based on client and trip data
+2. [Analysis of the Business Loyalty for DiDi based on client and trip data](https://github.com/hanzhou925/Analysis-of-DiDi-case)
 ------
    ![Example](http://hanzhou925.github.io/images/Tableau.jpg)
 
