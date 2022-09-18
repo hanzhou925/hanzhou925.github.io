@@ -59,6 +59,6 @@ Advanced Seminar on Phonetics and Neural Mechanisms of the Brain, etc.
 
 Skills
 ------
-  **Technical** :   Python / SQL/ Tableau / RStudio / GCP (BigQuery, Virtual Machine) / IBM Watson Studio / Microsoft Azure<br />
+  **Technical** :   Python / SQL / Tableau / RStudio / GCP (BigQuery, Virtual Machine) / IBM Watson Studio / Microsoft Azure<br />
   **Language** :      Chinese / English / German / Sanskrit
 
