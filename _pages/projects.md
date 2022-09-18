@@ -15,7 +15,7 @@ author_profile: true
 
 2. Analysis of the Business Loyalty for DiDi based on client and trip data
 ------
-   ![Example](http://hanzhou925.github.io/images/Tableau.png)
+   ![Example](http://hanzhou925.github.io/images/Tableau.jpg)
 
 3. [Handwriting digital identification based on Mindspore](https://github.com/hanzhou925/Le-Net-MNIST)
 ------
