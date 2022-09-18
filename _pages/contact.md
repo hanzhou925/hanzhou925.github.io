@@ -11,11 +11,11 @@ author_profile: true
 
 
                                                                                        
-|  Cell                     | (+86)15221567568                                                  <br />
-|  Email-1                  | kerry0925@sjtu.edu.cn                                             <br />
+|  Cell                     | (+44)07536403853                                                  <br />
+|  Email-1                  | hanzhou925@gmail.com                                              <br />
 |  Email-2                  | Kerry001.hi@gmail.com                                             <br />
 |  Linkedin                 | http://www.linkedin.com/in/hanzhou0925                            <br />
-|  Address                  | 800 Dongchuan Road, Minhang District, Shanghai, China, 200240     <br />
+|  Address                  | Mannequin House, 5 Blackhorse Lane, London, UK, E17 6SX           <br />
 
 
 
