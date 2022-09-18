@@ -9,21 +9,20 @@ author_profile: true
 
 I am Han Zhou who has recently graduated from Shanghai Jiao Tong University with BA in German, and now a prospective MSc student at UCL, majoring in Language Science in Neuroscience, Language & Communication. I am interested in applying technical skills like data analysis into business world to solve realistic problems and gain both business and social value.
 
-I have gained insights in discovering existing problems through conducting two research projects in psycholinguistics. The first investigates the processing of subject-verb agreement among Chinese-English L2 speakers with evidence from P600, which was nominated as a national-level Undergraduate Innovation Program. I came up with my sencond research idea regarding real-time discourse processing and inference through questioning the journals of Hoek (2020 & 2021) and found out the research gap in Chinese linguistics, which was a rather new area. I further designed eye-tracking experiments in Chinese based on my research questions, aiming to investigate the regulation of relative clauses on causality expectation.
-
-I have also developed strong abilities in data analysis, and finding out new discoveries with the data gathered. I have applied such analystic skills in not only processing experimental data gathered from participants, but also in my internships at several leading Internet companies. I worked as NLP PO at AI-LAB at ByteDance for over 4 months and Text-To-Speech (TTS) Linguistic Tech Intern at AI Center at Ximalaya, also a bigname Internet company in China. During these internships, I have successfully combined my expertise in linguistic theoretical knowledge as well as my edge in language with business and technical projects of the companies, assisting the upgrade and improvement of some hit products, such as live captioning function of TikTok.
+I have developed strong abilities in data analysis, and have applied such analystic skills in my internships at several leading Internet companies. I worked as NLP PO at AI-LAB at ByteDance for over 4 months and Text-To-Speech (TTS) Linguistic Data Intern at the data team of AI Center at Ximalaya, also a top Internet company in China. During these internships, I have successfully combined my expertise in linguistic theoretical knowledge as well as my edge in language with business and technical projects of the companies, assisting the upgrade and improvement of some hit products, such as live captioning function of TikTok. In the Data Science & Analytical Virtual Program at BCG, I have also applied CRISP-DM Model and diagnosed the customers’ churn rate with data modelling. 
 
 I am also curious about everything new and dedicated to improving my skills. I have attended several workshops to improve my data analytic skills. During undergraduate study, I have also selected courses such as Probability and Statistics, Calculus, as well as some programming courses like AI Programming Framework, Introduction to AI, and Natural Language Processing. In this way, I have enhanced my mathematical and computational abilities. Recently, I have been working on the IBM Certificate of Data Scienctist. 
 
-Hence, I hope to further pursue a career path relating to technical consultant, business analyst or data analyst, as well as product manager:).
-Some projects related to AI and machine learning can also be viewed on the Page "AI Projects".
+Moreover, I’m a people person. I get my energy from meeting different people. As the leader of the Public Relations Department during my undergraduate study, I have utilized my interpersonal skills to keep in touch with officers at International Organizations all over the world and invite them to give a lecture on campus, thus holding a university-wide Training Camp and gaining great influence. I believe such people skills and experience would also be extremely useful when I start projects with new clients at your team.
+
+You can also find some of my programming projects at next page:))
 
 
 
 Job Interest:
 ------
 
-Business Analyst; Technical consultant; Product Manager 
+Data Analyst; Business Analyst; Product Manager 
 
 
 
