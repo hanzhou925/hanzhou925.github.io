@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 
-I am Han Zhou who has recently graduated from Shanghai Jiao Tong University with BA in German, and now a prospective MSc student at UCL, majoring in Language Science in Neuroscience, Language & Communication. I am interested in applying technical skills like data analysis into business world to solve realistic problems and gain both business and social value.
+I am Han Zhou who has recently graduated from Shanghai Jiao Tong University with BA in German, and now a MSc student at UCL, majoring in Language Science (Neuroscience). Previously, I have also pursued a minor in AI. I am interested in applying technical skills like data analysis into business world to solve realistic problems and gain both business and social value.
 
 I have developed strong abilities in data analysis, and have applied such analystic skills in my internships at several leading Internet companies. I worked as NLP PO at AI-LAB at ByteDance for over 4 months and Text-To-Speech (TTS) Linguistic Data Intern at the data team of AI Center at Ximalaya, also a top Internet company in China. During these internships, I have successfully combined my expertise in linguistic theoretical knowledge as well as my edge in language with business and technical projects of the companies, assisting the upgrade and improvement of some hit products, such as live captioning function of TikTok. In the Data Science & Analytical Virtual Program at BCG, I have also applied CRISP-DM Model and diagnosed the customers’ churn rate with data modelling. 
 
