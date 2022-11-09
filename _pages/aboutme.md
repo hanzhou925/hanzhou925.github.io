@@ -19,13 +19,6 @@ You can also find some of my programming projects at next page:))
 
 
 
-Job Interest:
-------
-
-Data Analyst; Business Analyst; Product Manager 
-
-
-
 
 
 
