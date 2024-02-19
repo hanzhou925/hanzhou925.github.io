@@ -25,13 +25,14 @@ You can also find some of my programming projects at next page:))
 Research Projects
 ------
 
-1. **Independent Research**: <br />
-The Regulation of Relative Clause Types on Causality Expectation in Real-time Discourse Processing
+1. **Master Project**: <br />
+[Language- and Speaker- Independent Emotion Recognition System Using XGBoost]
+
     
-2. **National-level Undergraduate Innovation Program**: <br />
+3. **National-level Undergraduate Innovation Program**: <br />
 [The Impact of Quantificational Cues on L2 Subject-verb Agreement Processing: Evidence from P600](http://hanzhou925.github.io/files/项目研究论文.pdf)
 
-3. **Bachelor Thesis in German**: <br />
+4. **Bachelor Thesis in German**: <br />
 [An Empirical Study on the Acquisition of German Relative Clause Attachment among Late Chinese-German L2 Speakers](http://hanzhou925.github.io/files/本科毕业论文_周涵.pdf)
 
 
