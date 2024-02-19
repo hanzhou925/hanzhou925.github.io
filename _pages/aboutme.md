@@ -26,8 +26,8 @@ Research Projects
 ------
 
 1. **Master Project**: <br />
-[Language- and Speaker- Independent Emotion Recognition System Using XGBoost]
-(http://hanzhou925.github.io/files/XNVZ7_Language-_and_Speaker-_Independent_Emotion_Recognition_System_Using_XGBoost.pdf)
+[Language- and Speaker- Independent Emotion Recognition System Using XGBoost](http://hanzhou925.github.io/files/Master_thesis.pdf)
+
 
     
 3. **National-level Undergraduate Innovation Program**: <br />
