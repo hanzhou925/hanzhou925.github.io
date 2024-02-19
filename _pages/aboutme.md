@@ -25,7 +25,7 @@ You can also find some of my programming projects at next page:))
 Research Projects
 ------
 
-1. **Independent Research**: (on-going) <br />
+1. **Independent Research**: <br />
 The Regulation of Relative Clause Types on Causality Expectation in Real-time Discourse Processing
     
 2. **National-level Undergraduate Innovation Program**: <br />
