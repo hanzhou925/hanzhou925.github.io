@@ -3,7 +3,7 @@ layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-paperurl: 'http://hanzhou925.github.io/files/cv_zhouhan_hsbc.pdf'
+paperurl: 'http://hanzhou925.github.io/files/cv_zhouhan_hsbc_digital.pdf'
 imageurl: 'http://hanzhou925.github.io/images/cv_zhouhan_hsbc.png'
 redirect_from:
   - /resume
