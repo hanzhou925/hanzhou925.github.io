@@ -10,7 +10,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-You can download the document by [Clicking Here](files/cv_zhouhan_hsbc_digital.pdf)
+You can download the document by [Clicking Here]([files/cv_zhouhan_hsbc_digital.pdf](http://hanzhou925.github.io/files/cv_zhouhan_hsbc_digital.pdf))
 
 More details with research background can be viewed in [This Version](https://hanzhou925.github.io/files/cv_zhouhan_ac.pdf)
 
