@@ -14,4 +14,4 @@ You can download the document by [Clicking Here](files/cv_zhouhan_hsbc_digital1.
 
 More details with research background can be viewed in [This Version](https://hanzhou925.github.io/files/cv_zhouhan_ac.pdf)
 
-![Example](http://hanzhou925.github.io/images/cv_zhouhan_hsbc.png)
+![Example](http://hanzhou925.github.io/images/cv_zhouhan_hsbc_digital1.jpg)
